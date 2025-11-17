@@ -1,2 +1,4 @@
-This project was developed as part of the Qiskit Fall Fest PNC 2025. It aims to apply the learned skills to the real world problems. 
+This project was developed as part of the Qiskit Fall Fest PNC 2025. It aims to apply the learned skills to the real world problems.
+
+
 The project titled “Quantum Random Number Generator” are essentials for computing, especially in security and cryptography. Classical random generators rely on deterministic algorithms but quantum random number generators rely on quantum superposition and measurement to produce truly random outcomes. QRNG is unbiased and is more secured than classical random number generator.
